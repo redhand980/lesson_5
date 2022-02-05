@@ -85,7 +85,7 @@ h2 {
     color: rgba(117, 117, 117, 1);
     font-size: 18px;
     text-shadow: none;
-    word-spacing: ;
+    word-spacing: 5px;
 }
 
 .main {
@@ -180,7 +180,6 @@ span {
 }
 
 .layout-header1 {
-    font-style: Black;
     font-weight: 900;
     font-size: 46px;
     line-height: 1.3;
