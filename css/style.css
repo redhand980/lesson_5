@@ -51,6 +51,7 @@ div, h1, h2, p, ul, img {
 .scroll {
     overflow: auto;
     height: 200px;
+    margin-left: -100px;
 }
 
 .footer {
